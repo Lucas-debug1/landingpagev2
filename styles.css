@@ -49,6 +49,8 @@ header {
   border-radius: 6px; border: 1px solid #ccc;
 }
 
+.g-recaptcha { margin-bottom: 10px; }
+
 .form-box button {
   width: 100%; padding: 12px;
   background: #56ab2f; color: white;
